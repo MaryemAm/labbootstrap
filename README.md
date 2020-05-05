@@ -1,2 +1,1 @@
-# labbootstrap
-lab2
+https://maryemam.github.io/labbootstrap/
